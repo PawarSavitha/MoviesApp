@@ -1,0 +1,9 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2 style="text-align:center;padding-top:30px">Welcome, @User.Identity.Name</h2>
+
+<form style="text-align:center;padding-top:10px">
+<strong><a  href="@Url.Action("Search","Home")">Click here for movies protal</a></strong>
+</form>

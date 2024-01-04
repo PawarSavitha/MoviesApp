@@ -1,0 +1,208 @@
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.csproj.AssemblyReference.cache
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.AssemblyInfoInputs.cache
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.AssemblyInfo.cs
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.csproj.CoreCompileInputs.cache
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.RazorAssemblyInfo.cache
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.RazorAssemblyInfo.cs
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\appsettings.Development.json
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\appsettings.json
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.staticwebassets.runtime.json
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.exe
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.deps.json
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.runtimeconfig.json
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.pdb
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Humanizer.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.FinalProject_MoviesApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.build.FinalProject_MoviesApp.props
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FinalProject_MoviesApp.props
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FinalProject_MoviesApp.props
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\scopedcss\bundle\FinalProject_MoviesApp.styles.css
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\scopedcss\projectbundle\FinalProject_MoviesApp.bundle.scp.css
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.csproj.CopyComplete
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\refint\FinalProject_MoviesApp.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.pdb
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.genruntimeconfig.cache
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\ref\FinalProject_MoviesApp.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\refint\FinalProject_MoviesApp.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.pdb
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\appsettings.json
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.staticwebassets.runtime.json
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.exe
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.deps.json
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.runtimeconfig.json
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.pdb
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Humanizer.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.csproj.AssemblyReference.cache
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.AssemblyInfoInputs.cache
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.AssemblyInfo.cs
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.csproj.CoreCompileInputs.cache
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.RazorAssemblyInfo.cache
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.RazorAssemblyInfo.cs
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.sourcelink.json
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.FinalProject_MoviesApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.build.FinalProject_MoviesApp.props
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FinalProject_MoviesApp.props
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FinalProject_MoviesApp.props
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\scopedcss\bundle\FinalProject_MoviesApp.styles.css
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\scopedcss\projectbundle\FinalProject_MoviesApp.bundle.scp.css
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.csproj.CopyComplete
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.genruntimeconfig.cache
+C:\Practice\movies App\FinalProject\FinalProject_MoviesApp\obj\Debug\net6.0\ref\FinalProject_MoviesApp.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\appsettings.json
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.staticwebassets.runtime.json
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.exe
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.deps.json
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.runtimeconfig.json
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\FinalProject_MoviesApp.pdb
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Humanizer.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.csproj.AssemblyReference.cache
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.AssemblyInfoInputs.cache
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.AssemblyInfo.cs
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.csproj.CoreCompileInputs.cache
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.RazorAssemblyInfo.cache
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.RazorAssemblyInfo.cs
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.FinalProject_MoviesApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.build.FinalProject_MoviesApp.props
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FinalProject_MoviesApp.props
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FinalProject_MoviesApp.props
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\scopedcss\bundle\FinalProject_MoviesApp.styles.css
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\scopedcss\projectbundle\FinalProject_MoviesApp.bundle.scp.css
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.csproj.CopyComplete
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\refint\FinalProject_MoviesApp.dll
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.pdb
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.genruntimeconfig.cache
+C:\Practice\Mobileapplication\FinalProject_MoviesApp\obj\Debug\net6.0\ref\FinalProject_MoviesApp.dll

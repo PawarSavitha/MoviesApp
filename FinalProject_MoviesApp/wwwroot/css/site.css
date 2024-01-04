@@ -1,0 +1,41 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+nav {
+    background-color: #2F3C7E;
+    color:white;
+}
+
+
+.nav-link{
+    color:white !important;
+}
+
+.center {
+  justify-content:center;
+  align-items:center;
+}
+
+.btn-clr {
+    background-color: #2F3C7E;
+}
+
+.text-clr {
+    color: white !important;
+}

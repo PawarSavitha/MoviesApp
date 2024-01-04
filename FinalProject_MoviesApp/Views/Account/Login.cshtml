@@ -1,0 +1,40 @@
+﻿<div class="container">
+    <div class="row">
+        <div class="col-md-4 offset-md-4">
+            <h2>Login</h2>
+            <div>
+                <form asp-action="Login" method="post">
+                    <div class="input-group mb-3">
+                        <span class="input-group-text" id="username">Username</span>
+                        <input type="text" class="form-control" placeholder="Username" name="username">
+                    </div>
+                    <div class="input-group mb-3">
+                        <span class="input-group-text" id="password">Password</span>
+                        <input type="password" class="form-control" placeholder="Password" name="password">
+                    </div>
+                    <div class="mb-3">
+                        <button type="submit" class="btn btn-primary">Login</button>
+                    </div>
+                    <p>Don't have an account?</p><button type="submit" formmethod="get" asp-action="Register" class="btn btn btn-clr text-clr"> Register Now</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script type="text/javascript">
+        function openSuccessModal(strMessage) {
+            var myDiv = document.getElementById("modalSuccessAlert");
+            myDiv.innerHTML = strMessage;
+            $('#modelSuccess').modal('show');
+        }
+
+        $(document).ready(function () {
+            var msg = @TempData["SuccessMessage"];
+            if (msg)
+                openSuccessModal(msg);
+        });
+
+    </script>
+}

@@ -1,0 +1,31 @@
+﻿@model List<Movie>
+
+<h2>Search Results</h2>
+
+@if (Model != null && Model.Any())
+{
+    <ul>
+        @foreach (var movie in Model)
+        {
+            <li style="list-style-type:none">
+                <div>
+                    <img src="@movie.Poster" style="width:90px;height:150px; border:solid" alt="No Poster found">
+                    <strong>@movie.Title</strong> - @movie.Year
+                    <br>
+                    <form asp-action="Movies" asp-route-imdbID="@movie.ImdbID" method="get">
+                        <div class="input-group-sm" style="text-align:right">
+                            <button type="submit" class="btn btn-outline-secondary btn-lg btn-clr text-clr">View Details</button>
+                        </div>
+                    </form>
+                    <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+                </div>
+
+            </li>
+        }
+    </ul>
+
+}
+else
+{
+    <p>No results found.</p>
+}
